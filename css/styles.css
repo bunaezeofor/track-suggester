@@ -27,3 +27,15 @@ body {
   position: relative;
   padding-top: 50px;
 }
+
+.p1 {
+  display: none;
+}
+
+.p2 {
+  display: none;
+}
+
+.p3 {
+  display: none;
+}
