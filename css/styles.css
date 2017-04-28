@@ -18,5 +18,12 @@ body {
 .form-group
   {
     width: 500px;
-    position: absolute;
+    position: relative;
+    padding-top: 10px;
   }
+
+#form-group {
+  width: 500px;
+  position: relative;
+  padding-top: 50px;
+}
