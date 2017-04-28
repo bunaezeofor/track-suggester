@@ -1,7 +1,22 @@
 h1 {
-  color: blue;
+  color: black;
   font-family: 'Baloo', cursive;
   font-size: 75px;
   text-align: center;
 
 }
+
+img {
+  width: 50%;
+  height: 50%;
+}
+
+body {
+  background-color: #00b3b4
+}
+
+.form-group
+  {
+    width: 500px;
+    position: absolute;
+  }
