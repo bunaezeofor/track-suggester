@@ -2,8 +2,8 @@
 
 $(document).ready(function() {
   $(".btn").click(function(event) {
-    $(".p2").show();
-
+      $(".p1").show();
+    }
 
     event.preventDefault();
   });
