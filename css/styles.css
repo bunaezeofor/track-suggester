@@ -28,14 +28,14 @@ body {
   padding-top: 50px;
 }
 
-.p1 {
+#p1 {
   display: none;
 }
 
-.p2 {
+#p2 {
   display: none;
 }
 
-.p3 {
+#p3 {
   display: none;
 }
